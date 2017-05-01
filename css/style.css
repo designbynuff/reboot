@@ -1,0 +1,96 @@
+@charset "UTF-8";
+body{
+	background-color: #2B2E35;
+	color: #fff;
+	font-family: 'Axiforma-Regular';
+}
+
+h1 {
+  font-family: "lust",serif;
+	font-size: 6rem;
+  }
+
+	h2{
+		font-family: 'Axiforma-Bold', sans-serif;
+text-transform: uppercase;
+letter-spacing: 0.25rem;
+font-size: 1.4rem;
+	}
+
+	.btn {
+		color: #ffeea6;
+  padding: .5em 1em;
+  text-decoration: none;
+  border: 1px solid transparent;
+}
+
+.btn-link, {
+    border-color: transparent;
+  background-color: transparent;
+  box-shadow: none;
+  font-weight: normal;
+  color: #ffeea6;
+  text-decoration: none;
+}
+
+.btn-link:hover, .btn-link:focus, .btn-link:active{
+  color: #ffeea6;
+	border-bottom: 4px solid #ffeea6;
+	text-decoration: none;
+}
+
+	.links{
+		min-height: 20vh;
+		padding: 4em;
+		color: #fff;
+	}
+
+	a{
+		color: #ffeea6;
+	}
+
+	.img-responsive{
+		max-width: 100%;
+		height: auto;
+	}
+
+	.Axiforma-BoldItalic {
+	font-family: Axiforma-BoldItalic;
+	font-weight: normal;
+	font-style: normal;
+}
+.Axiforma-Bold {
+	font-family: Axiforma-Bold;
+	font-weight: normal;
+	font-style: normal;
+}
+.Axiforma-Heavy {
+	font-family: Axiforma-Heavy;
+	font-weight: normal;
+	font-style: normal;
+}
+.Axiforma-HeavyItalic {
+	font-family: Axiforma-HeavyItalic;
+	font-weight: normal;
+	font-style: normal;
+}
+.Axiforma-Italic {
+	font-family: Axiforma-Italic;
+	font-weight: normal;
+	font-style: normal;
+}
+.Axiforma-Regular {
+	font-family: Axiforma-Regular;
+	font-weight: normal;
+	font-style: normal;
+}
+.Axiforma-Thin {
+	font-family: Axiforma-Thin;
+	font-weight: normal;
+	font-style: normal;
+}
+.Axiforma-ThinItalic {
+	font-family: Axiforma-ThinItalic;
+	font-weight: normal;
+	font-style: normal;
+}
